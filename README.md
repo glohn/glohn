@@ -17,8 +17,3 @@ Infrastructure as Code for Hetzner Cloud
 - Certified Kubernetes Application Developer (CKAD)
 - Google Cloud Associate Cloud Engineer
 - AWS Certified Cloud Practitioner
-
-### 🔗 Links
-- [LinkedIn](https://linkedin.com/in/guido-lohn)
-- [XING](https://www.xing.com/profile/Guido_Lohn)
-- [CREDLY](https://www.credly.com/users/guido-lohn)
