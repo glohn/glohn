@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi, I'm Guido Lohn
 
-<!--
-**glohn/glohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer with a focus on Linux, AWS, Infrastructure as Code, and automation.
 
-Here are some ideas to get you started:
+### 🧰 Tools & Technologies
+- AWS, Hetzner, STACKIT
+- Terraform, Ansible
+- GitLab CI/CD, Docker
+- Kubernetes (CKA, CKAD – test/staging experience)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Example Project
+Infrastructure as Code for Hetzner Cloud  
+→ [hetzner-cloud-iac](https://github.com/glohn/hetzner-cloud-iac)
+
+### 🎓 Certifications
+- Certified Kubernetes Administrator (CKA)
+- Certified Kubernetes Application Developer (CKAD)
+- Google Cloud Associate Cloud Engineer
+- AWS Certified Cloud Practitioner
+
+### 🔗 Links
+- [LinkedIn](https://linkedin.com/in/guido-lohn)
+- [XING](https://www.xing.com/profile/Guido_Lohn)
+- [CREDLY](https://www.credly.com/users/guido-lohn)
