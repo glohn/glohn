@@ -24,8 +24,6 @@ I work with:
 ![Docker](https://img.shields.io/badge/Containers-Docker-blue?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-CKA/CKAD-blue?logo=kubernetes)
 
-> I currently use Kubernetes in staging/test environments.  
-
 ---
 
 ### Featured Project: Hetzner Cloud IaC
