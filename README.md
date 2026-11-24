@@ -10,11 +10,12 @@ Most of my day-to-day work happens in private company repositories, so only a sm
 
 I work with:
 
+- **Operating Systems**: Linux  
 - **Cloud & Platforms**: AWS, Hetzner Cloud, STACKIT, Proxmox  
 - **IaC & Automation**: Terraform / OpenTofu, Ansible  
 - **CI/CD Pipelines**: GitLab CI  
-- **Containers & Orchestration**: Docker, Kubernetes  
-- **Agentic AI**: Claude Code, MCP, multi-agent workflows with guardrails and verification  
+- **Containers & Orchestration**: Kubernetes  
+- **Agentic AI**: Claude Code, MCP, multi-agent workflows with guardrails and verification, self-hosted LLMs  
 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-orange?logo=amazon-aws)
 ![Hetzner](https://img.shields.io/badge/Cloud-Hetzner-grey)
@@ -26,7 +27,7 @@ I work with:
 ![Ansible](https://img.shields.io/badge/Automation-Ansible-red?logo=ansible)
 ![GitLab CI](https://img.shields.io/badge/CI/CD-GitLab%20CI-yellow?logo=gitlab)
 
-![Docker](https://img.shields.io/badge/Containers-Docker-blue?logo=docker)
+![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-blue?logo=kubernetes)
 ![Claude Code](https://img.shields.io/badge/AI-Claude%20Code-D97757?logo=claude)
 ![MCP](https://img.shields.io/badge/AI-MCP-black?logo=modelcontextprotocol)
