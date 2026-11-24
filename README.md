@@ -1,6 +1,6 @@
 ## Hi, I'm Guido Lohn (@glohn)
 
-I'm a Senior Operations Engineer and AI Engineer at brickfox, working where infrastructure operations meets agentic AI.  
+I'm a Senior Operations Engineer at brickfox, working where infrastructure operations meets agentic AI.  
 I run cloud and on-premise platforms and build multi-agent workflows with deterministic guardrails and verification.  
 Most of my day-to-day work happens in private company repositories, so only a small part of it shows up here.
 
